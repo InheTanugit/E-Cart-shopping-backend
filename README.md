@@ -1,4 +1,4 @@
-An E-cart shopping app built with MERN stack, and utilizes third party API's. This application enable three main different flows or implementations:
+An E-cart shopping app built with MERN stack, and MVC architechture. This application enable three main different flows or implementations:
 
 1. Buyers browse the store categories, products and brands
 2. Sellers or Merchants manage their own brand component
